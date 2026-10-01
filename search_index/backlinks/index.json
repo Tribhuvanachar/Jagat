@@ -1,0 +1,39 @@
+{
+ "_readme": "Which granthas have a backlinks shard, and the titles of the granthas that cite them. Built by tools/shard_backlinks.py from search_index/backlinks.json. \"cited\" maps a grantha slug to how many of its units are cited; a slug absent here has no shard and the reader fetches nothing.",
+ "v": 1,
+ "cited": {
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_01": 13,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_02": 6,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_03": 12,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_04": 12,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_05": 10,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_06": 7,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_07": 7,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_08": 5,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_09": 2,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_10": 23,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_11": 12,
+  "purana/maha_purana/bhagavata_purana_madhva/skandha_12": 4,
+  "vedanga/vyakarana/ashtadhyayi/sutrapatha": 3983
+ },
+ "titles": {
+  "Tattvavada/Itara/Bhagavata_Saroddhara/mula": "भागवतसारोद्धारः — मूलम् (श्लोकाः)",
+  "vedanga/vyakarana/ashtadhyayi/balamanorama": "बालमनोरमा",
+  "vedanga/vyakarana/ashtadhyayi/kashika": "काशिकावृत्तिः",
+  "vedanga/vyakarana/ashtadhyayi/laghu_kaumudi": "लघुसिद्धान्तकौमुदी",
+  "vedanga/vyakarana/ashtadhyayi/laghu_shabdendushekhara": "लघुशब्देन्दुशेखरः",
+  "vedanga/vyakarana/ashtadhyayi/mahabhashya_patanjali": "महाभाष्यम्",
+  "vedanga/vyakarana/ashtadhyayi/nyasa": "न्यासः",
+  "vedanga/vyakarana/ashtadhyayi/padamanjari": "पदमञ्जरी",
+  "vedanga/vyakarana/ashtadhyayi/prakriya_sarvasvam": "प्रक्रियासर्वस्वम्",
+  "vedanga/vyakarana/ashtadhyayi/praudha_manorama": "प्रौढमनोरमा",
+  "vedanga/vyakarana/ashtadhyayi/sarala": "सरला",
+  "vedanga/vyakarana/ashtadhyayi/siddhanta_kaumudi": "सिद्धान्तकौमुदी",
+  "vedanga/vyakarana/ashtadhyayi/sudha": "सुधा",
+  "vedanga/vyakarana/ashtadhyayi/sutrartha": "सूत्रार्थः",
+  "vedanga/vyakarana/ashtadhyayi/sutrartha_english": "Sūtrārtha (English gloss)",
+  "vedanga/vyakarana/ashtadhyayi/tattvabodhini": "तत्त्वबोधिनी",
+  "vedanga/vyakarana/ashtadhyayi/vasu": "Vasu (English)",
+  "vedanga/vyakarana/ashtadhyayi/vasu_summary": "S. C. Vasu — summary"
+ }
+}

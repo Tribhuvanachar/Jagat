@@ -1,0 +1,3436 @@
+{
+ "_readme": "Titles for works that have no public path. The id is all a reader gets; the path it resolves to lives in admin/config/opaque_ids.json, which does not publish.",
+ "schema": "display/1",
+ "works": {
+  "id:03hhdmww": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — जयतीर्थः"
+  },
+  "id:05wbj06b": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — उदयगिरिकेशवाचार्यविरचिताषट्प्रश्नपञ्चिका"
+  },
+  "id:06vw2y1h": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तात्पर्यचन्द्रिका — पाण्डुरङ्गि"
+  },
+  "id:08617tbk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "द्वैतद्युमणिः — मूलम्"
+  },
+  "id:0a7d6q57": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मविजयः — सिद्धान्तेऽदूषणस्याप्यप्रसिद्धविशेषणत्…"
+  },
+  "id:0csq5fsd": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika nyayasudha"
+  },
+  "id:0daevwrj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 3.2"
+  },
+  "id:0f7fknkm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — भावदीपः"
+  },
+  "id:0ktcanqm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — तत्त्वप्रकाशिका"
+  },
+  "id:0kwpeej7": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Pillai Lokacharyar — मूलम्"
+  },
+  "id:0vnxn7ee": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मध्वमुखालङ्कारः — मूलम्"
+  },
+  "id:0vx3dtbb": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Kathaka — मूलम्"
+  },
+  "id:0wddw55f": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:0y71gc4a": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Saaranishkarsa Tippani — मूलम्"
+  },
+  "id:0ydyrmez": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kulasekarazhwar — मूलम्"
+  },
+  "id:10b21gey": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Taittiriya Vartika — मूलम्"
+  },
+  "id:10cfr9tr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:10nvhvjs": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायविवरणम् — टिप्पणी"
+  },
+  "id:11j1h3fy": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — मूलम्"
+  },
+  "id:128m95gx": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Siddhantalesha Sangraha — Siddhantalesha Sangraha — Siddhantalesha Sangraha — कृष्णालङ्कारः (सिद्धान्तलेशव्याख्या) — tika_krishnalankara"
+  },
+  "id:14rcmk1k": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — तत्वसङ्ख्यानटीकाभावदीपः"
+  },
+  "id:165gm2w5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — मन्दारमञ्जरी"
+  },
+  "id:16ds5nnj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — खण्डार्थ"
+  },
+  "id:18z10j1j": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — मूलम्"
+  },
+  "id:18z7n316": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Aashvamedhikaparva — मूलम्"
+  },
+  "id:19pykwvj": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Prapanna Paritraanam — मूलम्"
+  },
+  "id:1cbw9vcs": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "श्रीविजयीन्द्रविजयवैभवम् — मूलम्"
+  },
+  "id:1ebbzsk4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — पदरत्नावली"
+  },
+  "id:1g1fb06s": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mumukshuppadi — मूलम्"
+  },
+  "id:1g2f2kje": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तर्कताण्डवम् — तर्कताण्डवम्"
+  },
+  "id:1j4nz5v0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — टिप्पणी"
+  },
+  "id:1nrk2nrw": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kaivalya Satadooshani — मूलम्"
+  },
+  "id:1pfv0f1t": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Prameya Mala — मूलम्"
+  },
+  "id:1ra7bwws": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — वामनपण्डिताचार्य"
+  },
+  "id:2457xs1g": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Isha — मूलम्"
+  },
+  "id:295p9bvj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika anuvada gitavivrti"
+  },
+  "id:297w1s93": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — मूलम्"
+  },
+  "id:2bzmfdyr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — भाष्यप्रकाशिका"
+  },
+  "id:2dy2e7km": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कन्दुकस्तुतिः — जयतीर्थः"
+  },
+  "id:2hj9zmht": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — वाक्यार्थमुक्तावली"
+  },
+  "id:2qatjeng": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — टिप्पणी"
+  },
+  "id:2rvexbzb": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Paratattva Nirnaya — मूलम्"
+  },
+  "id:2txr0erv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — मन्दनन्दिनी"
+  },
+  "id:30f3p85p": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — श्रीवेदेशतीर्थ"
+  },
+  "id:343ct789": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:35pqdzbb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — भावदीपः"
+  },
+  "id:36hrmtar": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — विरोधोद्धारः"
+  },
+  "id:37b6r8mz": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vazhi Thirunamangal — मूलम्"
+  },
+  "id:390sfvjc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — मूलम्"
+  },
+  "id:39p55k94": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Saara Sangraham — मूलम्"
+  },
+  "id:3azs1tc5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:3dt8wsrk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — वाक्यार्थचन्द्रिका"
+  },
+  "id:3fp9fne6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika na ca tata"
+  },
+  "id:3jf58jnk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — जयतीर्थः"
+  },
+  "id:3kkqcpw2": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Manu Smrithi — मूलम्"
+  },
+  "id:3knrqry5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ईशावास्योपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:3m8e6spf": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:3pk08mhs": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वविवेकः — तत्वविवेकटीकाविवरणं"
+  },
+  "id:3pwvetky": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — न्यायामृतम्"
+  },
+  "id:3q9d44fm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — मूलम्"
+  },
+  "id:3qske1b8": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Chandogya — मूलम्"
+  },
+  "id:3rdy78t1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — टिप्पणी"
+  },
+  "id:3rhtjfev": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:3te3n7xs": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदोज्जीवनम् — भावप्रदीप"
+  },
+  "id:3tvxa2g3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — उपनिषत्"
+  },
+  "id:3vcrs7jz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — नारोपन्तीया"
+  },
+  "id:3wtfpbxy": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Taittireeya Upanishat — मूलम्"
+  },
+  "id:3wv7mg45": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Nyaya Rakshamani — मूलम्"
+  },
+  "id:3y9jvcg6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — श्रीव्यासतीर्थविरचितंविवरणम्"
+  },
+  "id:3yf9n93z": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:3z8a6j4g": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रपञ्चमिथ्यात्वानुमानखण्डनम् — टिप्पणी"
+  },
+  "id:40t9hdkz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मविजयः — बुद्धिपू र्वं सर्वकर्तृत्वादिति हे तौ…"
+  },
+  "id:42qw31nx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यासपद्धतिः — जयतीर्थः"
+  },
+  "id:44s22z3y": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Gita Bhasyam — मूलम्"
+  },
+  "id:457xk5hj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रपञ्चमिथ्यात्वानुमानखण्डनम् — जयतीर्थः"
+  },
+  "id:45kf9nqj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मविजयः — मूलम्"
+  },
+  "id:4660eqw4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भावदीपिका"
+  },
+  "id:48dnf2xh": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:48rpqc5r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:4asp07s3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यनिर्णयः — मूलम्"
+  },
+  "id:4axq5x02": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — छलारी"
+  },
+  "id:4d12eq7q": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — मधुसूदनीया (श्रीमधुसूदन)"
+  },
+  "id:4ez8ecp0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:4f6bfkg4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — भाष्यार्थरत्नमाला"
+  },
+  "id:4g0vn1qy": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika anuvada english"
+  },
+  "id:4gdzpm9x": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sabhaaparva — मूलम्"
+  },
+  "id:4gs3m7vf": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Svargaarohanaparva — मूलम्"
+  },
+  "id:4p389j82": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Guruparampara Sangraham — मूलम्"
+  },
+  "id:4qqv0v9q": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "वादावली — वादावलीप्रकाशः"
+  },
+  "id:4qwze8ht": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Astaksara Sarvaadhikara Samartanam — मूलम्"
+  },
+  "id:4r1s3xfp": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sribhasya Upanyasa — मूलम्"
+  },
+  "id:4r9x09g7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika abhinavacandrika"
+  },
+  "id:4s6f1t3b": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "अनुव्याख्यानम् — मूलम्"
+  },
+  "id:4vmw465r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — पाण्डुरङ्गि श्रीनिवासाचार्यविरचिता तत्…"
+  },
+  "id:4w7dbfr7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — न्यायदीपिका"
+  },
+  "id:4x0ecw0k": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यासपद्धतिः — टिप्पणी"
+  },
+  "id:506zd9x0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मविजयः — कर्मनिर्णयनाम्न आचार्यकृतत्वनिर्णयोपयो…"
+  },
+  "id:52h90xwg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — न्यायामृतकण्टकोद्धारः"
+  },
+  "id:53py3p3g": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Ramanuja Rahasya Trayam — मूलम्"
+  },
+  "id:57q8kc73": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Hamsa Sandesa — मूलम्"
+  },
+  "id:5dnvrwmz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:5ggfhx86": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Dramidopanishat Saram — मूलम्"
+  },
+  "id:5hk96wr7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तात्पर्यचन्द्रिका — चन्द्रिकाबिन्दुः"
+  },
+  "id:5kq2enhr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — टिप्पणी"
+  },
+  "id:5n3fn2bz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भावदीपः"
+  },
+  "id:5q1dvxhk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:5zz04hff": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Archiradi — मूलम्"
+  },
+  "id:614p86jz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 2.2"
+  },
+  "id:63hg5nyb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "सदाचारस्मृतिः — टिप्पणी"
+  },
+  "id:67eb4c8k": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika sudha"
+  },
+  "id:67gbfxw1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — कथालक्षणपञ्चिका"
+  },
+  "id:6bzkf77k": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — वाक्यार्थदीपिका"
+  },
+  "id:6cy2e9y0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika vakyarthavivarana"
+  },
+  "id:6d9tqshv": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "परिमलः — मूलम्"
+  },
+  "id:6dmphwkg": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Siddhantalesha Sangraha — मूलम्"
+  },
+  "id:6e4qdty3": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Prameya Sekaram — मूलम्"
+  },
+  "id:6f5z8n2g": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — भावबोधटिप्पणी"
+  },
+  "id:6k29r3rc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — गूढकर्तृकाषट्प्रश्नभाष्यटीकाटिप्पणी"
+  },
+  "id:6mqty2wt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — मूलम्"
+  },
+  "id:6n61178s": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — गोविन्दीया"
+  },
+  "id:6nbef83j": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Jitanta Stotrani Shat — मूलम्"
+  },
+  "id:6nzyn6bg": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Dramidaamnaaya Sanghathi — मूलम्"
+  },
+  "id:6qe61m8h": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vadhikesari Jeer — मूलम्"
+  },
+  "id:6qne8vtw": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — श्रीवामनपण्डितविरचिताटीका"
+  },
+  "id:6se2mdtc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — वाक्यार्थरत्नमाला"
+  },
+  "id:6sen4zat": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — भावबोधः"
+  },
+  "id:6xzds4e8": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Navaratnamaalai — मूलम्"
+  },
+  "id:6yh7bmbg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "श्रीमन्न्यायसुधामण्डनम् — मूलम्"
+  },
+  "id:6z1741m7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — टिप्पणी"
+  },
+  "id:6zgdq22v": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:6zrvw1w7": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Mundaka — मूलम्"
+  },
+  "id:702kn8j1": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Thirukkolur Penpillai Rahasyam — मूलम्"
+  },
+  "id:72cszp8d": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रश्नोपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:76xjgbwy": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Brihadaranyaka — मूलम्"
+  },
+  "id:77dbbrc2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — मूलम्"
+  },
+  "id:77vvttwt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — मूलम्"
+  },
+  "id:77z735z1": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "कल्पतरुः — मूलम्"
+  },
+  "id:784mvbwy": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Nava Vidha Sambhandham — मूलम्"
+  },
+  "id:78hfk71c": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:7f5s738p": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "नखस्तुतिः — जयतीर्थः"
+  },
+  "id:7hdvsjen": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:7hp19cp2": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Taatparya Chandrika — मूलम्"
+  },
+  "id:7kmzytkn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तात्पर्यचन्द्रिका — प्रकाशिका"
+  },
+  "id:7krtkm40": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तिथिनिर्णयः — टिप्पणी"
+  },
+  "id:7m94ahxf": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भावप्रदीपिका"
+  },
+  "id:7nc2zshj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — लिङ्घेरी"
+  },
+  "id:7npaspc7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — श्रीवेदेशभिक्षु"
+  },
+  "id:7p6faexz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — आदर्शः"
+  },
+  "id:7p774gg1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — जनार्दनभट्टीया"
+  },
+  "id:7rk9ymjr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — वाक्यार्थमञ्जरी"
+  },
+  "id:7twyztn3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "सदाचारस्मृतिः — मूलम्"
+  },
+  "id:7tzwmft5": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Bootapuri Mahatmyam — मूलम्"
+  },
+  "id:7wa26zem": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tattva Boosanam — मूलम्"
+  },
+  "id:7whk8ww1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — मूलम्"
+  },
+  "id:7wnzefnr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — किरणावली"
+  },
+  "id:7xjwc90e": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Siddhi Trayam — मूलम्"
+  },
+  "id:7y4bz1nt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:86jrja6s": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sriyapathippadi — मूलम्"
+  },
+  "id:871w9120": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वविवेकः — टीका"
+  },
+  "id:87npavmj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 4.1"
+  },
+  "id:87pjh9ja": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — टिप्पणी"
+  },
+  "id:880txzns": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — उपनिषत्"
+  },
+  "id:8839xk3q": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसंख्यानम् — जयतीर्थः"
+  },
+  "id:883hyvrn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — श्रीवेदेशतीर्थविरचितश्रुत्यर्थ"
+  },
+  "id:887qgmx1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — मूलम्"
+  },
+  "id:89a75nd4": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Adhikarana Saraavazhi — मूलम्"
+  },
+  "id:8a9kd4kr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — मूलम्"
+  },
+  "id:8aj854rg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — वाक्यार्थप्रदीपः"
+  },
+  "id:8gqfshvw": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Naayamatmaa Bhasyam — मूलम्"
+  },
+  "id:8hst87a1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "अणुभाष्यम् — मूलम्"
+  },
+  "id:8kbvc2ea": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — मूलम्"
+  },
+  "id:8q3xa8jm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — टीका"
+  },
+  "id:8t7wbh1r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वविवेकः — मन्दारमञ्जरी"
+  },
+  "id:8vcc5z75": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — श्रीरघूत्तमतीर्थविरचितः तत्त्वप्रकाशिक…"
+  },
+  "id:8xazrvep": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — भावचन्द्रिका"
+  },
+  "id:8xsnbsqn": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Nigamanapadi — मूलम्"
+  },
+  "id:8y5ag772": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — मूलम्"
+  },
+  "id:8ykee90c": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "पुरुषसूक्तम् — सत्यप्रमोदटीका"
+  },
+  "id:8zvh0jky": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:90b0v5qw": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Chandogya Upanishat — मूलम्"
+  },
+  "id:90x0ttkc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्राणुभाष्यम् — भाष्यम्"
+  },
+  "id:92bckprc": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Vedanta Paribhasha — मूलम्"
+  },
+  "id:92zcwwk0": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Purnanandi — मूलम्"
+  },
+  "id:93qs0q89": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — श्रीमज्जयतीर्थटीका"
+  },
+  "id:957185pc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:95b23x6z": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Works Of Swami Namjeer — मूलम्"
+  },
+  "id:97ftn95v": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Vishnu Purana — मूलम्"
+  },
+  "id:992pkc5b": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — उपनिषत्"
+  },
+  "id:99mwaveb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika pra"
+  },
+  "id:99xrrs09": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — उपनिषत्"
+  },
+  "id:9cd1q12m": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मध्वसिद्धान्तसारः — मूलम्"
+  },
+  "id:9cw8wskn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — श्रीवादिराजीयाप्रकाशिका"
+  },
+  "id:9e26r8yq": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — न्यायामृतसौगन्ध्यम्"
+  },
+  "id:9exnsddm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तन्त्रसारसङ्ग्रहः — टिप्पणी"
+  },
+  "id:9f3bfgq2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — विवरणम्"
+  },
+  "id:9g4pkd90": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "यतिप्रणवकल्पः — मूलम्"
+  },
+  "id:9hbyjwct": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Prasnopanishat — मूलम्"
+  },
+  "id:9hyd7pnq": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Kena Pada — मूलम्"
+  },
+  "id:9kay8wby": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kooranarayana Jeer — मूलम्"
+  },
+  "id:9nv06f7z": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वविवेकः — मूलम्"
+  },
+  "id:9qtp8zb5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "अनुव्याख्यानम् — मूलम्"
+  },
+  "id:9r29z0ab": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika vivritti"
+  },
+  "id:9r2nn4mm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — प्रमाणलक्षणटीका"
+  },
+  "id:9rp7ap2x": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "द्वादशस्तोत्रम् — मूलम्"
+  },
+  "id:9txje05h": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "पदार्थसङ्ग्रहः — मूलम्"
+  },
+  "id:9xn7cq92": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Dronaparva — मूलम्"
+  },
+  "id:9znn5qqy": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Siddantha Siddanjanam — मूलम्"
+  },
+  "id:a1p0ne9p": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — द्वैतद्युमणि"
+  },
+  "id:a3b25fas": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — मन्दारमञ्जरी"
+  },
+  "id:a44p7cgr": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Isavasya Upanishat — मूलम्"
+  },
+  "id:a6ahdyb6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — श्रीमज्जयतीर्थभिक्षुविरचिताषट्प्रश्नभा…"
+  },
+  "id:a6an2ytc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ईशावास्योपनिषद्भाष्यम् — ईशावास्योपनिषद्भाष्यटीकाप्रकाशिका"
+  },
+  "id:a90az6xj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — भावबोधः"
+  },
+  "id:a9hp3jjt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऋग्भाष्यम् — मूलम्"
+  },
+  "id:aat6kf8b": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika gitavivrti"
+  },
+  "id:ac6xrvae": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Adyatmacintaa — मूलम्"
+  },
+  "id:afyd10jy": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Aitereyopanishat — मूलम्"
+  },
+  "id:ag4j71mk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "अनुव्याख्यानम् — न्यायसुधा"
+  },
+  "id:ahgp502v": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रपञ्चमिथ्यात्वानुमानखण्डनम् — मूलम्"
+  },
+  "id:an50afp0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika prameyadipika antara"
+  },
+  "id:ap62zstv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मिथ्यात्वानुमानखण्डनम् — मिथ्यात्वानुमानखण्डनपरशुः"
+  },
+  "id:ar7ggya7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — मङ्कालीधर्मराजाचार्यविरचिताषट्प्रश्नभा…"
+  },
+  "id:avdaj3se": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Srimad Valmiki Ramayanam W Bhoosanam — मूलम्"
+  },
+  "id:ax8zkga8": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vedanta Kaarikaavazhi — मूलम्"
+  },
+  "id:axv1ghzj": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sapthakaadai — मूलम्"
+  },
+  "id:ay1yb8vq": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — इति श्री छलारी शेषाचार्यकृतायां भागवतट…"
+  },
+  "id:ay9wcefh": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sarva Siddantha Sangraham — मूलम्"
+  },
+  "id:b0zbrj1y": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Siddantha Toolika — मूलम्"
+  },
+  "id:b6158bm6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — उपनिषत्"
+  },
+  "id:baf502dv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — नरसिंहभिक्षुविरचिताषट्प्रश्नार्थप्रकाश…"
+  },
+  "id:bcr6sk69": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:bepsxtag": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — छलारीनारायणाचार्यविरचितंषट्प्रश्नटीकाव…"
+  },
+  "id:berrdspc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — श्रीवादिराजीयाप्रकाशिका"
+  },
+  "id:bg41a2rg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — श्रीवरदतीर्थखण्डार्थ"
+  },
+  "id:bh3rw1bk": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sauptikaparva — मूलम्"
+  },
+  "id:bhvevqj7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — यादुपत्यम्"
+  },
+  "id:bhxewyak": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — श्रीवरदतीर्थ"
+  },
+  "id:bjd655cv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — शर्करा श्रीनिवासाचार्यविरचिता वाक्यार्…"
+  },
+  "id:bmkx0key": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "यतिप्रणवकल्पः — टिप्पणी"
+  },
+  "id:bq4jbcd2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika nivasatirthiya"
+  },
+  "id:br3s357r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वविवेकः — मूलम्"
+  },
+  "id:bwx8htge": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "सदाचारस्मृतिः — जयतीर्थः"
+  },
+  "id:bwzdxkj2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — पद्मनाभतीर्थीया कथालक्षणटीका"
+  },
+  "id:bxy5hxs3": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Samsaara Saamrajyam — मूलम्"
+  },
+  "id:bz6p277m": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "sutra"
+  },
+  "id:c1gey2g5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — जयतीर्थविजय"
+  },
+  "id:c2dzb8tc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika sheshavakyarthacandrika"
+  },
+  "id:c40x2pc2": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Ghatikachala Mahatmyam — मूलम्"
+  },
+  "id:c61qnfbr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "वादावली — मूलम्"
+  },
+  "id:c6ssr5je": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Agamapramanyam — मूलम्"
+  },
+  "id:c6xzzvzs": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — मूलम्"
+  },
+  "id:c7z78t20": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vaakya Guruparampara Vyakyanam — मूलम्"
+  },
+  "id:car68srq": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "यमकभारतम् — टिप्पणी"
+  },
+  "id:cc39pe7e": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदपराण्येव खलु ब्रह्मसूत्राणि — मूलम्"
+  },
+  "id:cd2hmhf6": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Ayee Jananyacharyar — मूलम्"
+  },
+  "id:cd9jw4cb": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Parandappadi — मूलम्"
+  },
+  "id:cdb6wk41": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Nadadur Ammal — मूलम्"
+  },
+  "id:ce144kvr": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Nyayanirnaya — मूलम्"
+  },
+  "id:cev0hhz9": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Maandookyapanishat — मूलम्"
+  },
+  "id:cf6999xc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — तत्त्वप्रदीपिका"
+  },
+  "id:cfx7erqz": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mundakopanishat — मूलम्"
+  },
+  "id:cgs2ycrp": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — जयतीर्थः"
+  },
+  "id:cn2wacew": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — परशुनाम्नीटिप्पणी"
+  },
+  "id:cphbzmpp": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Desika Prabhandham — मूलम्"
+  },
+  "id:crv3fa8w": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तात्पर्यचन्द्रिका — तात्पर्यचन्द्रिका"
+  },
+  "id:cvrhjxnk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भावबोधः"
+  },
+  "id:cw3yzq9k": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:d087mceh": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — तत्त्वप्रकाशिकाविवृतिः"
+  },
+  "id:d227am2d": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Muktabhogavalee — मूलम्"
+  },
+  "id:d26adp22": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mahaapraasthaanikaparva — मूलम्"
+  },
+  "id:d2bxfp9v": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Ratnaprabha — मूलम्"
+  },
+  "id:d39fc0k8": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — कथालक्षणटीकाविवरणं"
+  },
+  "id:d59aws4b": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Aitareya — मूलम्"
+  },
+  "id:d5pnm09x": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika yadupatyam"
+  },
+  "id:d5qvehas": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — श्रीनिवासतीर्थविरचिताखण्डार्थः"
+  },
+  "id:d5wwa4np": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "नित्यग्रन्थः — मूलम्"
+  },
+  "id:d7250cyq": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "यतिप्रणवकल्पः — जयतीर्थः"
+  },
+  "id:db1pg0by": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 2.3"
+  },
+  "id:db553vnb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — श्रीनिवासतीर्थीयटिप्पणी"
+  },
+  "id:dfsx9ape": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — खण्डार्थः"
+  },
+  "id:dgz3zwb3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — मूलम्"
+  },
+  "id:dsgq781y": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — श्रीवेदेशतीर्थ"
+  },
+  "id:dvn2cy9d": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — प्रमेयदीपिका"
+  },
+  "id:dxnwazy3": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Taittiriya — मूलम्"
+  },
+  "id:dxt1wrmh": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "नखस्तुतिः — टिप्पणी"
+  },
+  "id:e0ccnzws": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Saddarsana Sudarsana Champu — मूलम्"
+  },
+  "id:e0gdx1tv": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Maanikkamaalai — मूलम्"
+  },
+  "id:e1h9p8kb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:e316peqp": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Vishnudharma — मूलम्"
+  },
+  "id:e35mqyz9": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "अनुव्याख्यानम् — टिप्पणी"
+  },
+  "id:e6tcgq0k": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Yadavabyudaya — मूलम्"
+  },
+  "id:e6zvq5kn": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Bheeshmaparva — मूलम्"
+  },
+  "id:ebsvkxn0": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Siddadharma Vijayamangala Dipika — मूलम्"
+  },
+  "id:ee70efge": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदोज्जीवनम् — भेदचिन्तारत्नम्"
+  },
+  "id:ee7e7fd1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदोज्जीवनम् — भेदचन्द्रिका"
+  },
+  "id:efmdwe9x": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तन्त्रदीपिका — मूलम्"
+  },
+  "id:egb6adww": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कृष्णामृतमहार्णवः — टिप्पणी"
+  },
+  "id:eh5f3skg": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Hasthigiri Mahatmyam — मूलम्"
+  },
+  "id:ehnb8ef4": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Navatiruppadhi Mahatmyam — मूलम्"
+  },
+  "id:ej3w1z94": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायविवरणम् — जयतीर्थः"
+  },
+  "id:emytymv4": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Godha — मूलम्"
+  },
+  "id:enpxqsek": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रश्नोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:erxq510v": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कन्दुकस्तुतिः — टिप्पणी"
+  },
+  "id:ev6csbxb": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sankalpa Suryodaya — मूलम्"
+  },
+  "id:ezwzc4rq": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Shalyaparva — मूलम्"
+  },
+  "id:f0pmsmew": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तन्त्रसारसङ्ग्रहः — मूलम्"
+  },
+  "id:f24rk0gp": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "केनोपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:f32zffer": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika tattvasubodhini"
+  },
+  "id:f4pwm7en": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — काशी टिप्पणी"
+  },
+  "id:f6rzvysn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — भावप्रकाशः"
+  },
+  "id:f7ct5w0r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — जयतीर्थः"
+  },
+  "id:fapk2rx7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — पदार्थकौमुदी"
+  },
+  "id:fb90tf73": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:fbre00jn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "bhashya"
+  },
+  "id:fckgh62j": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kena Upanishat — मूलम्"
+  },
+  "id:fd23edp6": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Advaitasiddhi — मूलम्"
+  },
+  "id:fd4y7bns": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — वादिराजतीर्थीया (श्रीवादिराजतीर्थ)"
+  },
+  "id:fey83swn": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Nammazhwar — मूलम्"
+  },
+  "id:fgs2zmhr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — सत्याभिनवतीर्थीया — दुर्घटार्थप्रकाशिका"
+  },
+  "id:fpjaz10c": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यनिर्णयः — जयतीर्थः"
+  },
+  "id:ftcvmcmf": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "पुरुषसूक्तम् — मूलम्"
+  },
+  "id:g1j3mpwk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika tattvapradipika"
+  },
+  "id:g2zr6fee": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — tika_bhavapradipa"
+  },
+  "id:g4fpxyzt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — जयतीर्थः"
+  },
+  "id:g6rst7yh": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — श्रीवादिराजतीर्थ"
+  },
+  "id:g6w80dav": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — कण्ठकोद्धारः"
+  },
+  "id:g722f0dx": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Gita Venba — मूलम्"
+  },
+  "id:g7917wp3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — मूलम्"
+  },
+  "id:g81wbdd6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भाष्यम्"
+  },
+  "id:g85qa1d7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:g8dkcg02": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — श्रीराघवेन्द्रयतिविरचितषट्प्रश्नोपनिषत…"
+  },
+  "id:g8vkgez9": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Anandataaratamya Kandanam — मूलम्"
+  },
+  "id:g9gvyt3v": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — तत्त्वप्र्रदीपिका"
+  },
+  "id:gbdqvkza": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mimamsa Paduka — मूलम्"
+  },
+  "id:gbt10n60": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Brindaranya Mahatmyam — मूलम्"
+  },
+  "id:gc5fq2pg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — ताम्रपर्णी श्रीनिवासाचार्यविरचिता वाक्…"
+  },
+  "id:gger7wn9": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तर्कताण्डवम् — मूलम्"
+  },
+  "id:ghcgtv1x": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — टिप्पणी"
+  },
+  "id:gj11m126": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Rahasya Traya Vivaranam — मूलम्"
+  },
+  "id:gj20h1sh": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Hastamalakiyam — मूलम्"
+  },
+  "id:gk5ts1m7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — प्रमाणलक्षणटीकावाक्यार्थकौमुदी"
+  },
+  "id:gn1y0nd5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — प्रमाणलक्षणम्"
+  },
+  "id:gqbeztea": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:gqrbkrdv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 3.4"
+  },
+  "id:gt3zj0y9": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "mula"
+  },
+  "id:gtg7teca": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Acharya Hridayam — मूलम्"
+  },
+  "id:gwaj082r": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Viraataparva — मूलम्"
+  },
+  "id:gwmggrak": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "द्वैतद्युमणिः — श्रीमज्जयतीर्थटीका"
+  },
+  "id:gz9gvfrn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — अभिनवामृतम्"
+  },
+  "id:h10tbf4r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika parimala"
+  },
+  "id:h70nnahg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — कथालक्षणटीकाभावदीपः"
+  },
+  "id:h8pe91hk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "यमकभारतम् — जयतीर्थः"
+  },
+  "id:hbw4ne0b": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — जयतीर्थः"
+  },
+  "id:hc245t8m": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika sattarkadipavali"
+  },
+  "id:hcn8zh8m": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तर्कताण्डवम् — युक्तिरत्नाकरः"
+  },
+  "id:hcphq1mr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — तात्पर्यम्"
+  },
+  "id:hde00c9r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — टीका"
+  },
+  "id:heza0d3f": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:hh0m0jye": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — परिमळः"
+  },
+  "id:hkpyvkqv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — गीता"
+  },
+  "id:hksgaa6j": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Bheesma Stuthi — मूलम्"
+  },
+  "id:hnm57npa": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Nayamayookamaalika — मूलम्"
+  },
+  "id:hp8na42b": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sakala Pramana Taatparyam — मूलम्"
+  },
+  "id:hr634jqr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — मूलम्"
+  },
+  "id:hrbjzkjf": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — कर्मप्रकाशः"
+  },
+  "id:hwzkxnsm": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Vivekachudamani — मूलम्"
+  },
+  "id:hy2abbs8": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कृष्णामृतमहार्णवः — मूलम्"
+  },
+  "id:hyaz6mp1": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tani Dvayam — मूलम्"
+  },
+  "id:hyfhcjk4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — श्रीसत्यप्रियतीर्थविरचिताभाष्यविवृतिः"
+  },
+  "id:hzzvrmvr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:j2nr5zxb": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Astasloki — मूलम्"
+  },
+  "id:j3bn26vm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 3.3"
+  },
+  "id:j4fb6sm1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायविवरणम् — भावबोध"
+  },
+  "id:j4hay0f3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदोज्जीवनम् — काशीतिम्मण्णाचार्य"
+  },
+  "id:j9fa89af": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vachasudha Vicharaha — मूलम्"
+  },
+  "id:ja9ev73t": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika anuvyakhyanam"
+  },
+  "id:jabfw89r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — व्यासतीर्थीया — भावपञ्चिका (श्रीव्यासत…"
+  },
+  "id:jav4myf5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:jcx24rav": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tani Pranavam — मूलम्"
+  },
+  "id:jd57rty7": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Mundaka Bhashya — मूलम्"
+  },
+  "id:jhcwygyb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:jhxwg453": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 1.2"
+  },
+  "id:jjn8280w": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — tika_bhashya"
+  },
+  "id:jm85wd2m": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tattva Sekaram — मूलम्"
+  },
+  "id:jn7m4c82": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Udyogaparva — मूलम्"
+  },
+  "id:jpvswvny": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — गुर्वर्थदीपिका"
+  },
+  "id:jsz9w80e": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:jvds99gg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — मूलम्"
+  },
+  "id:jvkjpnfc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — श्रीविजयीन्द्रतीर्थ"
+  },
+  "id:jxd834aa": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — दुर्घटभावदीपिका"
+  },
+  "id:k066zj7p": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — सत्यधर्मीया"
+  },
+  "id:k0g05hq0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 2.1"
+  },
+  "id:k4k1ksxx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — श्रीनिवासतीर्थटिप्पणी"
+  },
+  "id:k4qq1szw": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदोज्जीवनम् — शर्कराश्रीनिवासाचार्य"
+  },
+  "id:k6ndz8e1": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vedanta Deepam — मूलम्"
+  },
+  "id:k8qdyv9r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika vakyartharatnamala"
+  },
+  "id:k8w62egd": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — टीका"
+  },
+  "id:k95gc5m8": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Dramidopanishat Tatparya Ratnavazhi — मूलम्"
+  },
+  "id:kays9g5w": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Paasurappadi Ramayanam — मूलम्"
+  },
+  "id:kbw71g5g": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — टीकासङ्ग्रहः"
+  },
+  "id:kc5yt3j3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — लघुप्रभा"
+  },
+  "id:kdfw0fa8": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Charmopaya Tatparyam — मूलम्"
+  },
+  "id:kfdqehvg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — विश्वेश्वरतीर्थव्याख्या"
+  },
+  "id:kh90yx6d": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika bhavadipa"
+  },
+  "id:khc8path": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — सत्यधर्म"
+  },
+  "id:kja02htt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 4.2"
+  },
+  "id:kja0y94j": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Kena Vakya — मूलम्"
+  },
+  "id:kkybyk8z": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Subhaashitha Neevi — मूलम्"
+  },
+  "id:krc8yf6e": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — वरदराजीया (श्रीवरदराजाचार्य)"
+  },
+  "id:kysek87c": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — विरोदोद्धारः"
+  },
+  "id:kz77hbj0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "उपाधिखण्डनम् — मूलम्"
+  },
+  "id:kzk07cdc": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Pradhaana Satakam — मूलम्"
+  },
+  "id:m23g7qdj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कन्दुकस्तुतिः — मूलम्"
+  },
+  "id:m2psr6rk": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Brihadaranyaka Vartika — मूलम्"
+  },
+  "id:m3emk6qy": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — श्रीविजयीन्द्रभिक्षु"
+  },
+  "id:m3ka6jxh": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ईशावास्योपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:m4dwzkxc": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Taittiriya Vanamala — मूलम्"
+  },
+  "id:m4zkad4g": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसंख्यानम् — टिप्पणी"
+  },
+  "id:m54rehha": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — मूल"
+  },
+  "id:m66q2k1z": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika vakyarthacandrika"
+  },
+  "id:mb04vn5r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — मूलम्"
+  },
+  "id:mc4x9hbg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "अणुभाष्यम् — टिप्पणी"
+  },
+  "id:me6z03wm": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kaushitaki Upanishat — मूलम्"
+  },
+  "id:med6f1tc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika trividharthavivrti"
+  },
+  "id:mew57jv1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — तत्वसङ्ख्यानटीकाटिप्पणी"
+  },
+  "id:mfkmwr26": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — श्रीवामनपण्डिताचार्यविरचिताषट्प्रश्रभा…"
+  },
+  "id:mfmnrbzk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — श्रीनिवासतीर्थीया"
+  },
+  "id:mfx6bc8n": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Nirveda Karaika — मूलम्"
+  },
+  "id:mgfhnwzf": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Thiruvoymozhi — मूलम्"
+  },
+  "id:mgy2t1ew": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — न्यायदीपिकाभावप्रकाशः"
+  },
+  "id:mh2zk99e": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tattvadeepa Sangraha Kaarika — मूलम्"
+  },
+  "id:mjef44pw": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika gitalakshalankara"
+  },
+  "id:mk78p90v": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tirumalisai Annavappangar — मूलम्"
+  },
+  "id:mk96wezh": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Gita — मूलम्"
+  },
+  "id:mkn43a2v": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Charmopaya Nirnayam — मूलम्"
+  },
+  "id:mkwnh6jn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — जयतीर्थः"
+  },
+  "id:mmd5zxd1": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Shrutisara Samuddharanam — मूलम्"
+  },
+  "id:mqw6x28f": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — न्यायामृतप्रकाशः"
+  },
+  "id:msg0mqb9": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — श्रीव्यासतीर्थविरचिताटीका"
+  },
+  "id:mt9srp42": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — तत्त्वमञ्जरी"
+  },
+  "id:mv05v7vf": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Yamunacharyar — मूलम्"
+  },
+  "id:mvc0tr6b": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायविवरणम् — निगूढार्थप्रबोधिनी"
+  },
+  "id:mvmg3v30": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — भावविवृतिः"
+  },
+  "id:mw1mk9q1": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tattva Saaram — मूलम्"
+  },
+  "id:mw4z9tbz": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Srivachanaboosanam — मूलम्"
+  },
+  "id:mx3ef178": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदोज्जीवनम् — मूलम्"
+  },
+  "id:mxbp1mg1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यासपद्धतिः — मूलम्"
+  },
+  "id:mxrbcx4c": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — गुरुराजीया"
+  },
+  "id:mxyw87t0": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Vaiyasika Nyayamala — मूलम्"
+  },
+  "id:mypwpqg4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — भावदीपः"
+  },
+  "id:n0b9bq5h": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तात्पर्यचन्द्रिका — चन्द्रिकाविवृतिः"
+  },
+  "id:n40hpv8a": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "श्रीमन्मध्वसिद्धान्तसारोद्धारः — मूलम्"
+  },
+  "id:n4rrm850": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:n4xfadkx": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Sarvavedanta Siddhanta Sara Sangraha — मूलम्"
+  },
+  "id:n5bqd25f": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — प्रकाशिका"
+  },
+  "id:n9ddk2p9": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — मूलम्"
+  },
+  "id:ncbtpkn0": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tattva Mukta Kalapa — मूलम्"
+  },
+  "id:ncgrcejt": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vedanta Saram — मूलम्"
+  },
+  "id:nctda85j": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मिथ्यात्वानुमानखण्डनम् — श्रीगुरुराजीयटिप्पणी"
+  },
+  "id:ndjzhqgx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:neayxhkk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ईशावास्योपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:neyacb6f": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:nfyfpn77": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — तत्वसङ्ख्यानविवरणम्"
+  },
+  "id:ngy9jmd2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — श्रीसत्यप्रज्ञतीर्थविरचिताषट्प्रश्नभाष…"
+  },
+  "id:nj04npmn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — भागवतप्रकाशिका"
+  },
+  "id:nk2zcysk": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Prapatti Anupayatva Vicharaha — मूलम्"
+  },
+  "id:nk3nr8af": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — प्रमाणलक्षणटीकाविवरणम्"
+  },
+  "id:nnk1m4gk": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तात्पर्यचन्द्रिका — मूलम्"
+  },
+  "id:np2h5t59": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भावप्रकाशिका"
+  },
+  "id:nw3atxfs": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Gnaana Saam Prameya Saram — मूलम्"
+  },
+  "id:nx82v6e7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — तत्वसङ्ख्यानटिप्पणम्"
+  },
+  "id:nxajqwg4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika bhavabodha"
+  },
+  "id:nxwf374y": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — तत्त्वसुबोधिनी"
+  },
+  "id:nyg259rx": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Paranda Rahasyam — मूलम्"
+  },
+  "id:nz8mhd9m": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — प्रमेयचन्द्रिका"
+  },
+  "id:p022wcjz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तर्कताण्डवम् — न्यायदीपः"
+  },
+  "id:p199t3b0": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Yadrucchikappadi — मूलम्"
+  },
+  "id:p233hmrb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — मूलम्"
+  },
+  "id:p2xq8kzp": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Pancharatna Stotrani — मूलम्"
+  },
+  "id:p8dmx4yf": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Yadavadri Mahatmyam — मूलम्"
+  },
+  "id:p9d39ekt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — टिप्पणी"
+  },
+  "id:pap5vgy0": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika gitasarasangraha"
+  },
+  "id:pd862x4v": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — चट्टी / जम्बुखण्डी (श्रीलक्ष्मीनृसिंहा…"
+  },
+  "id:pda0gqfp": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Vivarana Prameya Sangraha — मूलम्"
+  },
+  "id:pdveax07": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Seyyatamaraitaalinaivazhiye Bhasyam — मूलम्"
+  },
+  "id:pgzaeqrj": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Vedantacharyar — मूलम्"
+  },
+  "id:ph199zez": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Gitartha Sangraha Raksha — मूलम्"
+  },
+  "id:phc563g7": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Prapanna Parijatha — मूलम्"
+  },
+  "id:pn648jsr": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Srimad Rahasya Traya Saram — मूलम्"
+  },
+  "id:pqbckw5q": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "जयन्तीनिर्णयः — जयतीर्थः"
+  },
+  "id:pqk37m9f": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "द्वादशस्तोत्रम् — जयतीर्थः"
+  },
+  "id:prtv6002": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भेदोज्जीवनम् — भेदसञ्जीविनी"
+  },
+  "id:pt7spcxt": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Iraamanuja Nootrandadi — मूलम्"
+  },
+  "id:px6gw8he": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — अभिनवचन्द्रिका"
+  },
+  "id:pxj8dpre": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — वाक्यविवेकः"
+  },
+  "id:pxs1bay9": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मिथ्यात्वानुमानखण्डनम् — श्रीनिवासतीर्थीयटिप्पणी"
+  },
+  "id:pyy3pmqx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — तत्त्वप्रकाशिकाभावबोधः"
+  },
+  "id:pzdjy14e": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tattva Trayam — मूलम्"
+  },
+  "id:q07wa8cd": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika tattvaprakashika"
+  },
+  "id:q0b3xnkd": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भावरत्नकोशः"
+  },
+  "id:q427t0vx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रश्नोपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:q4rprd1g": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — श्रीनिवासतीर्थीया"
+  },
+  "id:q5vd1vfs": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika gurvarthadipika"
+  },
+  "id:q87xyrmx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "नखस्तुतिः — मूलम्"
+  },
+  "id:q8d6xeys": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — विषमपदवाक्यार्थविवृतिः"
+  },
+  "id:q9djqgse": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Bhamati — मूलम्"
+  },
+  "id:q9ez4bhg": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "सर्वसिद्धान्तसारसारविवेचनम् — मूलम्"
+  },
+  "id:q9vksyez": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — उपनिषत्"
+  },
+  "id:qaznyjc4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वविवेकः — जयतीर्थः"
+  },
+  "id:qe5ctc00": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Paraasara Smrithi — मूलम्"
+  },
+  "id:qey8ygbx": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Varavaramuni — मूलम्"
+  },
+  "id:qfch4hdv": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Vedantasara — मूलम्"
+  },
+  "id:qnmv2jtc": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Streeparva — मूलम्"
+  },
+  "id:qqq1br7b": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Periya Thirumozhi — मूलम्"
+  },
+  "id:qvj62ze8": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "अणुभाष्यम् — जयतीर्थः"
+  },
+  "id:qxp8vcec": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Yatindra Matha Deepika — मूलम्"
+  },
+  "id:qy3fxj1v": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऋग्भाष्यम् — मूलम्"
+  },
+  "id:qz49s4rm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मिथ्यात्वानुमानखण्डनम् — मूलम्"
+  },
+  "id:r1966j81": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — ताम्रपर्णीया"
+  },
+  "id:r30ynas4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — न्यायकल्पलता"
+  },
+  "id:r3vpjcdt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "जयन्तीनिर्णयः — मूलम्"
+  },
+  "id:r4tcnzpr": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Prashna — मूलम्"
+  },
+  "id:r5xg6a73": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — नृसिंहभिक्षुविरचिताउपनिषदार्थप्रकाशिका"
+  },
+  "id:r7p6wq61": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Srimad Bhagavatam — मूलम्"
+  },
+  "id:r9c7gxzj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "द्वादशस्तोत्रम् — टिप्पणी"
+  },
+  "id:rb5mkk9m": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — टिप्पणी"
+  },
+  "id:rdqmm3qs": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 4.3"
+  },
+  "id:rdwwd9ga": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — विवृतिः"
+  },
+  "id:rg87zb71": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — गूढवाक्यार्थपञ्चिका"
+  },
+  "id:rhdk9fta": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mukthipada Sakthivada — मूलम्"
+  },
+  "id:rj329mcd": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "12000 36000 Padi — मूलम्"
+  },
+  "id:rkv01e4b": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tattva Deepam W Tattva Deepa Prakasanam — मूलम्"
+  },
+  "id:rkzwwsd4": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Vaktavyakashika — मूलम्"
+  },
+  "id:rpa0j24p": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:rqvewbpn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:rs481jet": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "पुरुषसूक्तम् — सुरोत्तमटीका"
+  },
+  "id:rs7cbgq3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ओंकारवादः — मूलम्"
+  },
+  "id:rybnhf9j": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:s03e3ax7": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Boogola Kagola Vishayam — मूलम्"
+  },
+  "id:s0tw0c5j": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mausalaparva — मूलम्"
+  },
+  "id:s16tb2md": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 3.1"
+  },
+  "id:s1swbwxq": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — भाष्यम्"
+  },
+  "id:s20rb8zr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 1.1"
+  },
+  "id:s81yt4ym": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sudarshanar Chakrayudham — मूलम्"
+  },
+  "id:s84nfswx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — जयतीर्थः"
+  },
+  "id:s8sh4pns": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — श्रीनिवासतीर्थविरचिताषट्प्रश्रभाष्यटीक…"
+  },
+  "id:sfybpxae": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Iyarpa — मूलम्"
+  },
+  "id:sgb08ghq": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika vakyarthamuktavali"
+  },
+  "id:sgb1vypt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — वेदाङ्गतीर्थीया"
+  },
+  "id:sgw4gk5d": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — मायावादपरशुः"
+  },
+  "id:shcr849j": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Svetasvataropanishat — मूलम्"
+  },
+  "id:shd2dgj1": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — न्यायामृततरङ्गिणी"
+  },
+  "id:shs340ec": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Aadiparva — मूलम्"
+  },
+  "id:sjr1gctx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वोद्योतः — श्रीराघवेन्द्रतीर्थ"
+  },
+  "id:spywgeh5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — मूलम्"
+  },
+  "id:sqntjvsr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणलक्षणम् — प्रमाणलक्षणटीकाभावदीपः"
+  },
+  "id:sqxb6awm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तर्कताण्डवम् — श्रीलक्ष्मीनाथतीर्थटीका"
+  },
+  "id:st0hav62": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — कथालक्षणम्"
+  },
+  "id:svfw3hzr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — उपनिषत्"
+  },
+  "id:swa0w4r6": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "6000 Padi — मूलम्"
+  },
+  "id:sz8pdv6z": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Panchapadika — मूलम्"
+  },
+  "id:t1mkyrh7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika vivarana"
+  },
+  "id:t2rrzavz": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Arulicheyal Rahasyam — मूलम्"
+  },
+  "id:t4dpqty5": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — सत्तर्कदीपावली"
+  },
+  "id:t5t608r7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — श्रीराघवेन्द्रतीर्थखण्डार्थ"
+  },
+  "id:t5t9ve0j": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "चन्द्रिकामण्डनम् — रामसुब्ब"
+  },
+  "id:t99rw21e": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — टीका"
+  },
+  "id:tanywjfz": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Upadesha Ratnamalai — मूलम्"
+  },
+  "id:tba935vp": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "यमकभारतम् — मूलम्"
+  },
+  "id:tbbywynq": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायविवरणम् — मूलम्"
+  },
+  "id:td5bz5mc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — जनार्दनीया (श्रीजनार्दनभट्ट)"
+  },
+  "id:teyt2xew": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kaliyan Arulpaadu — मूलम्"
+  },
+  "id:tfdkpnax": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:tg0hmrge": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 1.3"
+  },
+  "id:tgkqkx3n": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sarana Sabdaartha Vicharaha — मूलम्"
+  },
+  "id:thvfgjp0": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kancheepoornar — मूलम्"
+  },
+  "id:tjebwnq8": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसङ्ख्यानम् — भाववर्णनम्"
+  },
+  "id:tkjg4jxz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मिथ्यात्वानुमानखण्डनम् — टीका"
+  },
+  "id:tpyssz00": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Kooratazhwan — मूलम्"
+  },
+  "id:try1sfrx": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मुण्डकोपनिषद्भाष्यम् — पदार्थदीपिका"
+  },
+  "id:tvqe81ak": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Anandagiri Mandukya — मूलम्"
+  },
+  "id:tvshheg2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika gitabhashya"
+  },
+  "id:tx6a8y8q": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "माण्डूक्योपनिषद्भाष्यम् — श्रीनिवासतीर्थविरचितापदार्थदीपिका"
+  },
+  "id:txfpb6xv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "वादावली — वादावलीविवरणम्"
+  },
+  "id:txw2ww5c": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mudalayiram — मूलम्"
+  },
+  "id:tzra9e5r": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "वाग्वज्रः — मूलम्"
+  },
+  "id:v0tfe2ha": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Kaisika Purana — मूलम्"
+  },
+  "id:v29a957h": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sriranga Mahatmyam — मूलम्"
+  },
+  "id:v33b7tdz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मनिर्णयः — मूलम्"
+  },
+  "id:v4ms8bzy": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — सत्यधर्मीया"
+  },
+  "id:v6erah48": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कथालक्षणम् — मूलम्"
+  },
+  "id:v7fqjysn": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Hastamalakiyam — Hastamalakiyam — Hastamalakiyam — हस्तामलकीयभाष्यम् — tika_bhashya"
+  },
+  "id:v8tx2j0b": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika vakyarthamanjari"
+  },
+  "id:v9hbtcjh": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sri Narasimha Panchakam — मूलम्"
+  },
+  "id:vagr1w8n": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — न्यायसुधा"
+  },
+  "id:vazjz1tm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — श्रीराघवेन्द्रयतिविरचितःतलवकारोपनिषत्ख…"
+  },
+  "id:vg20jysr": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Artha Panchakam — मूलम्"
+  },
+  "id:vha25py8": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तिथिनिर्णयः — मूलम्"
+  },
+  "id:vj70zfxs": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Brihadaaranyaka Upanishat — मूलम्"
+  },
+  "id:vkhf9t1h": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायविवरणम् — न्यायविवरणपञ्चिका"
+  },
+  "id:vkqfksxe": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — टीका"
+  },
+  "id:vn454drk": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Karnaparva — मूलम्"
+  },
+  "id:vn7gpw51": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Mahacharya Doddayachariar — मूलम्"
+  },
+  "id:vp499zfm": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Tani Charmam — मूलम्"
+  },
+  "id:vq0qaj1s": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — अनन्तभट्टविरचिताषट्प्रश्नभाष्यटीकाटिप्…"
+  },
+  "id:vqaz3z63": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Anushaasanaparva — मूलम्"
+  },
+  "id:vrkkc9d0": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Subalopanishat — मूलम्"
+  },
+  "id:vss8rcsr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — वाक्यार्थमञ्चरी"
+  },
+  "id:vvthh4ae": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — श्रीवादिराजतीर्थविरचिता गुर्वर्थदीपिका"
+  },
+  "id:vx2b8xc2": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Yaagnavalkya Smrithi — मूलम्"
+  },
+  "id:vxfxav3t": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — खण्डार्थः"
+  },
+  "id:vyhfkph8": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — सुमनोरञ्जिनी"
+  },
+  "id:w495n1ah": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तलवकारोपनिषद्भाष्यम् — श्रीवरदतीर्थभिक्षुविरचिताटीका"
+  },
+  "id:w5v772py": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — छान्दोग्योपनिषत्खण्डार्थः"
+  },
+  "id:w7mghjvb": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — पदार्थदीपिका"
+  },
+  "id:wb1y33z6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कर्मविजयः — महाजनपरिगृहीतत्वलिङ्गेन \"कर्मनिर्णय \"न…"
+  },
+  "id:wnbdssgz": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Shaantiparva — मूलम्"
+  },
+  "id:wpq0s4ym": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "मायावादखण्डनम् — जयतीर्थः"
+  },
+  "id:wv1ypcwy": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — मूलम्"
+  },
+  "id:wvkyec6a": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — प्रकाशिका"
+  },
+  "id:wzjb4qe4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 2.4"
+  },
+  "id:x0swrexz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायामृतम् — न्यायामृतमाधुरी"
+  },
+  "id:x17pfzcr": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ईशावास्योपनिषद्भाष्यम् — जयतीर्थः"
+  },
+  "id:x48tw0v2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — भावचन्द्रिका"
+  },
+  "id:x78xqngk": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Shatashloki — मूलम्"
+  },
+  "id:xcgy090q": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "षट्प्रश्नोपनिषद्भाष्यम् — ताम्रपर्णीश्रीनिवासाचार्यविरचिताषट्प्र…"
+  },
+  "id:xfwey1bj": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "केनोपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:xfynxqs4": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तिथिनिर्णयः — जयतीर्थः"
+  },
+  "id:xghnyzk2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — मूलम्"
+  },
+  "id:xgq2hn68": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "विष्णुतत्त्वविनिर्णयः — भावदीपः"
+  },
+  "id:xh5rvaxz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कृष्णामृतमहार्णवः — जयतीर्थः"
+  },
+  "id:xh6k438p": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — टिप्पणी"
+  },
+  "id:xhtqq79s": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Aaranyakaparva — मूलम्"
+  },
+  "id:xm34nm95": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — वाक्यार्थविवरणम्"
+  },
+  "id:xmyc92nf": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Srimad Ahobila Mahatmyam — मूलम्"
+  },
+  "id:xqbn2tpz": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "बृहदारण्यकोपनिषद्भाष्यम् — टिप्पणी"
+  },
+  "id:xs1hekce": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "जयन्तीनिर्णयः — टिप्पणी"
+  },
+  "id:xsehd3vt": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Rahasya Traya Deepikai — मूलम्"
+  },
+  "id:xsskyykv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ईशावास्योपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:xtj5vy6v": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "यमकभारतम् — मूलम्"
+  },
+  "id:xvnytq7s": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — तैत्तिरीयोपनिषत्"
+  },
+  "id:xwwjetn6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "वादावली — वादावलीभावदीपिका"
+  },
+  "id:y0t4ng6j": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वसंख्यानम् — मूलम्"
+  },
+  "id:y1v248mz": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Sathadooshani — मूलम्"
+  },
+  "id:y230d455": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — श्रीविट्टलभट्ट"
+  },
+  "id:y3vhd0xc": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Parasara Bhattar — मूलम्"
+  },
+  "id:y4zgbw07": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — लिङ्गेरी"
+  },
+  "id:y67j295w": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — अनन्तभट्टीया (श्रीअनन्तभट्ट)"
+  },
+  "id:y9fcg618": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — श्रीवेदेशतीर्थखण्डार्थ"
+  },
+  "id:ybsytey7": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "कठोपनिषद्भाष्यम् — श्रीव्यासतीर्थ"
+  },
+  "id:ydhevm7t": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रभाष्यम् — जयतीर्थः"
+  },
+  "id:ydj0bjsm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — वाक्यार्थमञ्जरी"
+  },
+  "id:ydvy7rsv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "द्वैतद्युमणिः — द्वैतद्युमणि"
+  },
+  "id:yefx47nm": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — खण्डार्थः"
+  },
+  "id:yf2pq2r9": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीतातात्पर्यम् — श्रीमन्न्यायदीपकिरणावलिः"
+  },
+  "id:ygff7n3t": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Brahma Pada Sakthivadaha — मूलम्"
+  },
+  "id:yj81ze1y": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Katopanishat — मूलम्"
+  },
+  "id:ynbsb496": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "चन्द्रिकामण्डनम् — मूलम्"
+  },
+  "id:ywspcsyk": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Aashramavaasikaparva — मूलम्"
+  },
+  "id:yxy22nnd": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Kathaka Bhashya — मूलम्"
+  },
+  "id:yyppr8zc": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "छान्दोग्योपनिषद्भाष्यम् — भाष्यम्"
+  },
+  "id:yzxmycg6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — ऐतरेयोपनिषद्भाष्यम् — tika_upanishat"
+  },
+  "id:z0n2at60": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "गीताभाष्यम् — भावप्रकाशः"
+  },
+  "id:z1nm38vv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तन्त्रसारसङ्ग्रहः — जयतीर्थः"
+  },
+  "id:z29tmq17": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Ciriya Rahasyangal — मूलम्"
+  },
+  "id:z3x599j6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "महाभारततात्पर्यनिर्णयः — भारतश्री"
+  },
+  "id:z64dd25e": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "केनोपनिषद्भाष्यम् — मूलम्"
+  },
+  "id:z8nrmc4b": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Nyaya Siddanjanam — मूलम्"
+  },
+  "id:z8px8mv2": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Bagavad Ramanujar — मूलम्"
+  },
+  "id:zbtd4c51": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Rahasyatraya Kaarikaavazhi — मूलम्"
+  },
+  "id:zbtwnr5w": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रानुव्याख्यानम् (न्यायसुधादिसहितम्) — शेषवाक्यार्थचन्द्रिका"
+  },
+  "id:zcydqg1q": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्राणुभाष्यम् — मूलम्"
+  },
+  "id:zd3kpwq3": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "प्रमाणपद्धतिः — भावदीपः"
+  },
+  "id:zgwe8r0e": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "Brahmasūtradīpikā 1.4"
+  },
+  "id:zh0awm81": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Thiruvoymozhi Nootrandadi — मूलम्"
+  },
+  "id:zh1prwmh": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवतनिर्दोषत्वलक्षणम् — मूलम्"
+  },
+  "id:zk4948rg": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "9000 Padi — मूलम्"
+  },
+  "id:zkpy44q2": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ब्रह्मसूत्रन्यायसंग्रहः — मूलम्"
+  },
+  "id:zm2q29bv": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "tika gitanvayaprakashika"
+  },
+  "id:znfhb4cw": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "न्यायविवरणम् — मूलम्"
+  },
+  "id:zpv4q5kh": {
+   "public_path": null,
+   "shelf": "vishishtadvaita",
+   "title": "Dashamatha Darsini — मूलम्"
+  },
+  "id:zs1by3tt": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "ईशावास्योपनिषद्भाष्यम् — ईशावास्योपनिषद्भाष्यटीका"
+  },
+  "id:zv0rgzw0": {
+   "public_path": null,
+   "shelf": "advaita",
+   "title": "Kena Vakya Bhashya — मूलम्"
+  },
+  "id:zvkcnqtn": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "भागवततात्पर्यनिर्णयः — चट्टी"
+  },
+  "id:zw90xth6": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तत्त्वविवेकः — टिप्पणी"
+  },
+  "id:zxtt1e09": {
+   "public_path": null,
+   "shelf": "dvaita",
+   "title": "तैत्तिरीयोपनिषद्भाष्यम् — श्रीनिवासतीर्थीय खण्डार्थ"
+  }
+ }
+}
